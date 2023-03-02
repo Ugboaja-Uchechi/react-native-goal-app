@@ -56,6 +56,8 @@ export default function App() {
 
       </View>
     </View>
+
+   
   );
 }
 
@@ -64,6 +66,7 @@ const styles = StyleSheet.create({
     flex: 1,
     paddingTop: 50,
     paddingHorizontal: 16,
+    backgroundColor: '#c8b6ff',
   },
   goalsContainer: {
     flex: 5,
