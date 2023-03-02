@@ -1,3 +1,6 @@
 Using React Native Components and Building UI
 Styling React Native Apps
 Adding Interactivity andManaging State
+
+<View> are boxes
+<Text> hold text
